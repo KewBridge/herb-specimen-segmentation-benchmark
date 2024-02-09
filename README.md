@@ -26,6 +26,15 @@ TBC
 
 TBC
 
+## Problems / questions
+Please raise an issue in the [issue tracker](https://github.com/KewBridge/herb-specimen-segmentation-benchmark/issues) for this repository
+
+## Contributing
+TBC
+
+## Citation
+Any use of the products of this pipeline should cite the original dataset ([DOI:10.3897/BDJ.7.e31817](https://doi.org/10.3897/BDJ.7.e31817))
+
 ## Contact
 
 - Nicky Nicolson (n.nicolson@kew.org)
